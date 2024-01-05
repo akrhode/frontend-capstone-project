@@ -1,13 +1,11 @@
-import "./App.css";
+import Main from "./components/layout/Main";
 
-function App() {
+const App = () => {
   return (
     <>
-      <div className="App">
-        <h1>Homepage</h1>
-      </div>
+      <Main></Main>
     </>
   );
-}
+};
 
 export default App;
