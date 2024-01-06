@@ -16,7 +16,7 @@ const testimonials = [
     id: 2,
     author: "Caroline Miller",
     description:
-      "The burger at Little Lemon was a taste revelation with its juicy, perfectly cooked meat and harmonious ingredient pairing.",
+      "Little Lemon's bruschetta and pasta are the finest in Chicago. You get high-quality food at an affordable price.",
     image:
       "https://images.pexels.com/photos/1197132/pexels-photo-1197132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     rating: 5,
